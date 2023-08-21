@@ -25,5 +25,6 @@ AWS Operation Pictures For Project Deployment On Creating And Connecting Root Us
 ![2023-08-21 (22)](https://github.com/Ratikant-rout/AWS_PROJECT/assets/111556535/e68ec54c-f117-4f6c-ad84-df4cafb11d46)
 ![2023-08-21 (23)](https://github.com/Ratikant-rout/AWS_PROJECT/assets/111556535/aabc2267-d708-4f2d-9278-3eabf7e2283e)
 ![2023-08-21 (24)](https://github.com/Ratikant-rout/AWS_PROJECT/assets/111556535/b1e6e2cf-cefa-49e9-9222-4d0a9791ccfa)
-![2023-08-21 (25)](https://github.com/Ratikant-rout/AWS_PROJECT/assets/111556535/b3242f1e-c28a-4e5d-ab7b-7fe8bf0a071f)
 ![2023-08-21](https://github.com/Ratikant-rout/AWS_PROJECT/assets/111556535/34d77fd7-2de8-4d1d-816e-764e6aa77fbd)
+
+
